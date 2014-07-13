@@ -1,0 +1,8 @@
+Walkthrough of devloping rails app locally:
+Book catalog:
+ Create new rails app ( note this also creates the sub direrctories):
+     Rails 4.1.4
+    $ rails new bookcatalog
+    update gem file to lock versions
+    $ bundle update
+    TODO: run bundle install & test locally
